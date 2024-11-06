@@ -1399,6 +1399,8 @@
   "cobblemon.move.condensate.desc": "The user condensates the target, turning them into a different type.",
   "cobblemon.move.solidificate": "Solidificate",
   "cobblemon.move.solidificate.desc": "The user solidifies the target, turning them into a different type.",
+  "cobblemon.move.icecoldtouch": "Ice-Cold Touch",
+  "cobblemon.move.icecoldtouch.desc": "The user touches the target with its cold skin to inflict frostbite.",
   
   "cobblemon.move.bufu": "Bufu",
   "cobblemon.move.bufu.desc": "Light Ice damage with Low chance to freeze",
@@ -1418,6 +1420,10 @@
   
   "cobblemon.battle.end.magmaring": "%1$s was freed from Magma Ring!",
   "cobblemon.battle.end.parasiticfungi": "%1$s was cured from Parasitic Fungi!",
+  
+  "cobblemon.ui.status.fbt": "FBT",
+  "cobblemon.battle.fail.fbt": "But %1$s is already frostbitten!",
+  "cobblemon.battle.damage.fbt": "%1$s was hurt by its frostbite!",
   
   "cobblemon.battle.weather.acidrain.start": "It started to rain acid!",
   "cobblemon.battle.weather.acidrain.upkeep": "Acid continues to fall.",
